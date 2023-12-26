@@ -1,0 +1,11 @@
+{
+    "name": "cool wordz",
+    "version": "1.0.0",
+    "description": "Look up cool slang words from urban dictionary",
+    "manifest_version": 3,
+    "action":{
+        "default_icon": "icon.png",
+        "default_popup": "index.html",
+        "default_title": "cool wordz"
+    }
+}
